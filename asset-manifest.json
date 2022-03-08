@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//:moamin-abuewaid.github.io/drawing-canvas/static/css/main.abd64e84.css",
+    "main.js": "/http//:moamin-abuewaid.github.io/drawing-canvas/static/js/main.af51f530.js",
+    "index.html": "/http//:moamin-abuewaid.github.io/drawing-canvas/index.html",
+    "main.abd64e84.css.map": "/http//:moamin-abuewaid.github.io/drawing-canvas/static/css/main.abd64e84.css.map",
+    "main.af51f530.js.map": "/http//:moamin-abuewaid.github.io/drawing-canvas/static/js/main.af51f530.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.af51f530.js"
+  ]
+}
